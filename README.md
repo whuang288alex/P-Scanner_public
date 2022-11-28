@@ -1,5 +1,5 @@
 # P-Scanner_public
-(The code for this project in private, this is just a public version to showcase our device)
+(The code for this project is private. This is just a public version to showcase our device)
 
 This project is the collaborative work of interns from Zebra, Taiwan 2022. The purpose of this project is to design a multifeature device that is used in a warehouse setting. 
 This device includes features such as but not limited to barcode scanning, route planning, navigating, and picture capturing. 
