@@ -10,14 +10,6 @@ On top of the above mentioned core features, the biggest attraction of our devic
 ![1](https://user-images.githubusercontent.com/91099638/204683412-ebd6f2bb-5ab6-4f06-a9fa-2899a64e27d9.png)
 ![2](https://user-images.githubusercontent.com/91099638/204683415-4db8d7ab-91eb-4d51-91ae-30b5003a5e13.png)
 
-Below is the structure of our device.
-
-## Workflow
-
-Below is the workflow of a typical user of our device
-
-![image](https://user-images.githubusercontent.com/91099638/184587050-1804650d-d701-4b92-ab77-de3d548078c6.png)
-
 ## Demo video
 
 Below is a demo video of a designed scenario
